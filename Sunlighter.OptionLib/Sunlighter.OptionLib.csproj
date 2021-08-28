@@ -6,7 +6,7 @@
     <Description>Option type for use by other libraries</Description>
     <Copyright>Copyright © 2021</Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/Sunlighter/AsyncQueues</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Sunlighter/OptionLib</PackageProjectUrl>
     <PackageTags>option</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
