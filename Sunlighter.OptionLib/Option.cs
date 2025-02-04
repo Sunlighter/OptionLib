@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Sunlighter.OptionLib
 {
@@ -46,6 +44,18 @@ namespace Sunlighter.OptionLib
             else
             {
                 return Option<U>.None;
+            }
+        }
+
+        public static T GetValueOrDefault<T>(this Option<T> opt, T theDefault)
+        {
+            if (opt.HasValue)
+            {
+                return opt.Value;
+            }
+            else
+            {
+                return theDefault;
             }
         }
     }

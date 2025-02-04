@@ -4,11 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Sunlighter</Authors>
     <Description>Option type for use by other libraries</Description>
-    <Copyright>Copyright © 2021</Copyright>
+    <Copyright>Copyright © 2025</Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Sunlighter/OptionLib</PackageProjectUrl>
     <PackageTags>option</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
