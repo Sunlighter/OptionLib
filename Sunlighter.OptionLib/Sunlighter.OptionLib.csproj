@@ -5,13 +5,16 @@
     <Authors>Sunlighter</Authors>
     <Description>Option type for use by other libraries</Description>
     <Copyright>Copyright © 2025</Copyright>
-    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageLicenseExpression>Apache-2.0 OR MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Sunlighter/OptionLib</PackageProjectUrl>
     <PackageTags>option</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <AssemblyVersion>1.0.1</AssemblyVersion>
-    <FileVersion>1.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="../README.md" Link="README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
 </Project>
