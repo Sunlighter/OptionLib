@@ -7,6 +7,7 @@
     <Copyright>Copyright © 2025</Copyright>
     <PackageLicenseExpression>Apache-2.0 OR MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Sunlighter/OptionLib</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>option</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <AssemblyVersion>1.0.2</AssemblyVersion>
